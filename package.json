@@ -12,7 +12,6 @@
     "bash-parser": "SahidMiller/bash-parser",
     "cash": "^0.8.0",
     "escape-string-regexp": "^5.0.0",
-    "executable": "^4.1.1",
     "sed-lite": "^0.8.4"
   }
 }
